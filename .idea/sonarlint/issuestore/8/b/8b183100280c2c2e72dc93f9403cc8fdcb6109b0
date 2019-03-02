@@ -1,0 +1,10 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÿÙÀ
+T
+squid:S106'"9Replace this use of System.out or System.err by a logger.(±Ãæòÿÿÿÿÿ
+T
+squid:S106+"9Replace this use of System.out or System.err by a logger.(÷š®ôýÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾ï…–
+Bsquid:S1172"&Remove these unused method parameters.(á‡ÿÌþÿÿÿÿ
+hsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÆÿÙÀ

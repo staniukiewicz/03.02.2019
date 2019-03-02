@@ -1,0 +1,36 @@
+
+lsquid:S1192"UDefine a constant instead of duplicating this literal "Mam teraz %.2f zÅ‚%n" 5 times.(ĞÓéè
+dsquid:S1192"HDefine a constant instead of duplicating this literal "stÃ³wka" 3 times.(ü¥ª©ÿÿÿÿÿ
+Bsquid:S1068&"+Remove this unused "rozmiar" private field.(è¿˜÷
+Esquid:S1068'")Remove this unused "marka" private field.(È¹¾ùÿÿÿÿ
+Hsquid:S1068(",Remove this unused "material" private field.(ïáîÜşÿÿÿÿ
+Gsquid:S1068)"0Remove this unused "liczbaDyszek" private field.(Öí–ë
+Lsquid:S1068*"5Remove this unused "liczbaDwudziestek" private field.(ŠÉ’¾
+Tsquid:S1068+"8Remove this unused "liczbaPiecdziesiatek" private field.(çåäıÿÿÿÿ
+Gsquid:S1068,"0Remove this unused "liczbaStowek" private field.(ñ„¶
+Hsquid:S1068-"2Remove this unused "liczbaDwusetek" private field.(üë‰B
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æÀö€øÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(İá—Šùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÓéè
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Úëıÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÓéè
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“÷àÅúÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÓéè
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(óœñÜşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÓéè
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ”„†
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÓéè
+T
+squid:S106t"9Replace this use of System.out or System.err by a logger.(¥Áşˆıÿÿÿÿ
+nsquid:S3776D"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Èó¸ÿÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ç
